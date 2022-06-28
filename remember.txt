@@ -1,0 +1,15 @@
+Why use?
+
+1.Type safety.
+2.Easy to write code.
+3.Catch error at compile time.
+4.Default for Angular.
+5.Important for Enterprise project.
+
+
+Project setup:
+1.npm init
+2.npm install typescript
+
+
+*npx tsc index.ts //this will convert ts to js then compile using node index.js basic hum isko compile kar raha ha 
